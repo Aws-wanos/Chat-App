@@ -27,7 +27,7 @@ const io = socketio(server, {
 // CORS configuration
 const corsOptions = {
   origin: [
-    'https://your-netlify-app.netlify.app', // Replace with your actual Netlify URL
+    'https://https://dainty-marzipan-a706b7.netlify.app', // Replace with your actual Netlify URL
     'http://localhost:3000'
   ],
   credentials: true,
